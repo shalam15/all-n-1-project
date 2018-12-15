@@ -1,0 +1,73 @@
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.42857143;
+  color:#333;
+  background-color:#fff;
+  margin:auto;
+  padding:10% 10% 10% 10%;
+}
+
+@media (min-width:1200px) {
+  .container {
+    width:100%;
+  }
+}
+
+5 {
+  border:0;
+  width:100%;
+  height:50%;
+}
+
+.h1, h1 {
+  text-align:center;
+}
+
+.nav-tabs {
+  border-bottom:1px solid #ddd;
+  align-content:center;
+  align-content:center;
+  float:none;
+  display:flex;
+  justify-content:center;
+}
+
+.nav {
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none;
+}
+
+img {
+  vertical-align:middle;
+  height:50%;
+  width:100%;
+}
+
+#logo {
+  width:30%;
+  height:30%;
+}
+
+.colored-text {
+  color:#CA5354;
+}
+
+.input-lg {
+  height:46px;
+  padding:10px 16px;
+  font-size:18px;
+  line-height:1.3333333;
+  border-radius:6px;
+  margin:auto;
+}
+
+span {
+  color:blue;
+}
+
+.outin {
+  color:blue;
+}
+
